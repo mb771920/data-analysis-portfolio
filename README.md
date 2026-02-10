@@ -1,2 +1,1 @@
-# Data analytics and statistical analysis using R, focusing on data cleaning, transformation, analysis, and reporting. The work reflects accuracy, transparency, and reproducibility. Packages used include tidyverse packages such as dplyr, tidyr, ggplot2. Quarto, mice and VIM
-R program
+R program. Data analytics and statistical analysis using R, focusing on data cleaning, transformation, analysis, and reporting. The work reflects accuracy, transparency, and reproducibility. Packages used include tidyverse packages such as dplyr, tidyr, ggplot2. Quarto, mice and VIM
